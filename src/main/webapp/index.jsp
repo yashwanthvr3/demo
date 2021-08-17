@@ -1,7 +1,7 @@
 <html>
 <body>
 <title> Upload image </title>
-<img src=\"sysmedac.png"  width=\"400\" height=\"200\">
+<img src=\"images/sysmedac.png"  width=\"400\" height=\"200\">
 <title> DEMO </title>
 <body style=\"background-color:white;\">
 <link rel="icon" type="image/png" href="images/sysmedac.png">
