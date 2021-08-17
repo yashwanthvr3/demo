@@ -7,9 +7,5 @@
 <h2 style=\"text-align:center\"> CHEF-DEMO </h2>
 <p style=\"text-align:center\">  Chef in Ubuntu deploying with Jenkins </p>
 <p style=\"text-align:center\"> Date/Time:  <%= (new java.util.Date()).toLocaleString()%></p>
-<script>
-var dt = new Date();
-document.getElementById(\"datetime\").innerHTML = dt.toLocaleString()
-</script>
 </body>
 </html>
