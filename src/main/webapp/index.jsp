@@ -2,7 +2,7 @@
 <body>
 <title> DEMO </title>
 <body style=\"background-color:white;\">
-<link rel="icon" type="image/png" href="webapp/sysmedac.png">
+<link rel="icon" type="image/png" href="images/sysmedac.png">
 <img src=\"sysmedac.png"  width=\"400\" height=\"200\">
 <h1 style=\"text-align:center;\"> DEMO PROJECT </h1>
 <h2 style=\"text-align:center\"> CHEF-DEMO </h2>
