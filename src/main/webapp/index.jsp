@@ -2,7 +2,7 @@
 <body>
 <title> DEMO </title>
 <body style=\"background-color:white;\">
-<img src=\"demo/src/main/webapp/sysmedac.png"  width=\"400\" height=\"200\">
+<img src=\"images\sysmedac.png"  width=\"400\" height=\"200\">
 <h1 style=\"text-align:center;\"> DEMO PROJECT </h1>
 <h2 style=\"text-align:center\"> CHEF-DEMO </h2>
 <p style=\"text-align:center\">  Chef in Ubuntu deploying with Jenkins </p>
