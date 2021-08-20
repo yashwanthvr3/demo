@@ -1,12 +1,14 @@
 <!DOCTYPE html>
-
 <html>
 <body>
-<title> DEMO </title>
-<body style=\"background-color:white;\">
-<img src=\"images\sysmedac.png"  width=\"400\" height=\"200\">
-<h1 style=\"text-align:center;\"> DEMO PROJECT </h1>
-<p style=\"text-align:center\">  Java project deployed in ubuntu </p>
-<p style=\"text-align:center\"> Date/Time:  <%= (new java.util.Date()).toLocaleString()%></p>
+
+<img src="images/sysmedac.png"  width="200" height="150">
+<h1 style="text-align:center;"> DEMO PROJECT </h1>
+<p style="text-align:center">  java app deployed in ubuntu </p>
+<p style="text-align:center"> Date/Time: <span id="datetime"></span></p>
+<script>
+var dt = new Date();
+document.getElementById("datetime").innerHTML = dt.toLocaleString();
+</script>
 </body>
 </html>
