@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+
 <html>
 <body>
 <title> DEMO </title>
